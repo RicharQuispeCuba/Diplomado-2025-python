@@ -8,3 +8,9 @@ This is a course in python for PUCP
 ## Faculty
 1. Economía
 2. Sociology
+
+## schools
+1. La Union
+2. CE 34
+3. San Juan
+4. villa maria
